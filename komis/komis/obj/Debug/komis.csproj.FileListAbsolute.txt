@@ -1,0 +1,14 @@
+C:\Users\Justyna\source\repos\komis\komis\bin\Debug\komis.exe.config
+C:\Users\Justyna\source\repos\komis\komis\bin\Debug\komis.exe
+C:\Users\Justyna\source\repos\komis\komis\bin\Debug\komis.pdb
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.csproj.AssemblyReference.cache
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.Form1.resources
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.Properties.Resources.resources
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.csproj.GenerateResource.cache
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.exe
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.pdb
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.Konfiguracja.resources
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.AddCar.resources
+C:\Users\Justyna\source\repos\komis\komis\obj\Debug\komis.TestDrive.resources

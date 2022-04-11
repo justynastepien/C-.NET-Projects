@@ -1,0 +1,5 @@
+Fiat 126p Benzyna czerwony C:\Users\Justyna\source\repos\komis\komis\samochody\fiat_126p.jpg
+Skoda Fabia Diesel srebrny C:\Users\Justyna\source\repos\komis\komis\samochody\skoda_fabia.jpg
+Skoda Felicia Benzyna zielony C:\Users\Justyna\source\repos\komis\komis\samochody\felicia.jpg
+Suzuki Swift Benzyna srebrny brak_zdjecia
+Peugeot Aveo Benzyna czerwony brak_zdjecia

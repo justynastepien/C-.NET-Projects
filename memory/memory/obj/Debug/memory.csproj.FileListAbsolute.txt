@@ -1,0 +1,15 @@
+C:\Users\Justyna\source\repos\memory\memory\bin\Debug\memory.exe.config
+C:\Users\Justyna\source\repos\memory\memory\bin\Debug\memory.exe
+C:\Users\Justyna\source\repos\memory\memory\bin\Debug\memory.pdb
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.csproj.AssemblyReference.cache
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.Form1.resources
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.Form2.resources
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.Properties.Resources.resources
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.csproj.GenerateResource.cache
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.exe
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.pdb
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.Form3.resources
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.Form4.resources
+C:\Users\Justyna\source\repos\memory\memory\obj\Debug\memory.setting.resources
