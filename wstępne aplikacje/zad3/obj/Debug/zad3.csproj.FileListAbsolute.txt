@@ -1,0 +1,11 @@
+C:\Users\Justyna\source\repos\lab2\zad3\bin\Debug\zad3.exe.config
+C:\Users\Justyna\source\repos\lab2\zad3\bin\Debug\zad3.exe
+C:\Users\Justyna\source\repos\lab2\zad3\bin\Debug\zad3.pdb
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.csproj.AssemblyReference.cache
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.Form1.resources
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.Properties.Resources.resources
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.csproj.GenerateResource.cache
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.exe
+C:\Users\Justyna\source\repos\lab2\zad3\obj\Debug\zad3.pdb
